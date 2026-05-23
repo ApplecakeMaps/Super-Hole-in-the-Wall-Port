@@ -30,6 +30,7 @@ V3.0 - 05/23/2026
 	- Ported Map to 26.1.2
 		* Updated command blocks to function with new syntax changes.
 		* Updated resourcepack sounds and models to function similarly to the original version.
+		* Removed the particles and sounds for pistons breaking.
 		* Added a datapack to assist in replicating old command block dispenser mechanics.
 		* Tweaked redstone timing on walls to prevent walls from being deleted.
 		* Updated tellarw to function in the modern version of the game.
