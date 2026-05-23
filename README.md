@@ -20,10 +20,10 @@ This map maintains a majority of the original code with updates to syntax as wel
 ## Making a video?
 - We'd appreciate it if you linked your viewers to be able to download the map for themselves. 
 
-##Music:
+## Music:
 - All music written, recorded and produced by Taylor Grover (Digison) from the Noxcrew, and as such is royalty free.
 
-##LAGGING?
+## LAGGING?
 - Reduce view distance to between 2 and 6
 - Use fast graphics
 - Turn off smooth lighting
