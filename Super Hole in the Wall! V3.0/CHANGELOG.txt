@@ -1,0 +1,31 @@
+V1.0- 21/06/2014
+Released Super Hole in the Wall
+
+V1.1- 24/06/2014
+	- Fixed the issue where people would jump onto the ledge in Last Man Standing to avoid a necessary and inevitable death.
+	- Fixed (maybe?) the issue where a Booby Trap would be reached at the score limit, and you would hear it trigger after you returned to the lobby.
+	- Changed the "INSTALLATION INSTRUCTIONS" and "READ ME" files to be more useful and include a forgotten server setting.
+	- Added information in the hub to make features of the game slightly more obvious.
+	- Replaced the old Super Hole in the Wall logo painting with the new one from the trailer. (THIS MEANS THE RESOURCE PACK CHANGED TOO)
+	
+V2.0- 03/09/2014
+	- Updated 3d models to work with Mojang's changes
+	- Fixed a tellraw issue with team gametypes
+	- Created a painting insurance system
+	- Updated walls that included 3d models, and changed some walls to use newer blocks
+	- Added NINE NEW Booby Traps!
+		* Reproduction
+		* Matrix
+		* Swimmy Fish
+		* Kaboom
+		* What in the Blazes
+		* Revenge
+		* Where am I?
+		* Flower Head
+		* Double Booby!
+	- Updated the Resource Pack to include announcer sounds for all the new Booby Traps
+
+V3.0 - 05/23/2026
+	- Applecake wrote this :D
+	- Ported Map to 26.1.2
+		* Involved numerous command updates / resourcepack changes / and datapack additions (for behavior imitation)

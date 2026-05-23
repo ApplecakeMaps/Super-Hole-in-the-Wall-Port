@@ -1,0 +1,38 @@
+Super Hole in the Wall!
+Minecraft Version 26.1.2
+
+Installation Instructions:
+
+Single Player:
+	- Download "Super Hole in the Wall! V3_0.zip"
+	- Use 7zip or some other utility to unzip the folder
+	- Locate your .minecraft folder
+	- Place the "Super Hole in the Wall! Map V3_0" folder into your "saves" folder
+	- Open the Minecraft Launcher
+	- Click "Minecraft: Java Edition"
+	- Click "Installations"
+	- Create a New Installation with version "release 26.1.2"
+	- Name it
+	- Make sure the "Launch after install" checkbox is active 
+	- Click Install
+	- You should find Super Hole in the Wall in your Single Player maps. Enjoy!
+
+Multiplayer:
+	- Download Super Hole in the Wall Map
+	- Have other players download "Super Hole in the Wall! RP (V3_0).zip"
+	- Download the Server for 26.1.2: https://www.minecraft.net/en-us/download/server
+	- Run the server
+	- Stop the server
+	- Open eula.txt and set eula=true
+	- Place the map in the same folder location as the server, and call it "world"
+	- Open server.properties with notepad or notepad++
+	- Change the following settings:
+		* difficulty=easy
+		* gamemode=adventure
+		* spawn-protection=0
+	- Launch the server, give your players the IP, have them join and equip the resource pack, and enjoy!
+
+For the Best Experience:
+	- Turn your "Music" slider down to zero. Leave every other volume control at 100, and adjust the Master volume to your liking.
+	- Turn your "Render Distance" down to 4. You could even turn it to 2 with minimal side effects.
+	- Turn "Clouds" off.
