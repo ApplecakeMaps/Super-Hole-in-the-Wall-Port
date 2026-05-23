@@ -28,4 +28,11 @@ V2.0- 03/09/2014
 V3.0 - 05/23/2026
 	- Applecake wrote this :D
 	- Ported Map to 26.1.2
-		* Involved numerous command updates / resourcepack changes / and datapack additions (for behavior imitation)
+		* Updated command blocks to function with new syntax changes.
+		* Updated resourcepack sounds and models to function similarly to the original version.
+		* Added a datapack to assist in replicating old command block dispenser mechanics.
+		* Tweaked redstone timing on walls to prevent walls from being deleted.
+		* Updated tellarw to function in the modern version of the game.
+	- Tweaked credits.
+	- Changed the "INSTALLATION INSTRUCTIONS" and "READ ME" files to be more accurate to the modern version of the game.
+		* Removed contact requests to avoid confusion.
